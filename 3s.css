@@ -288,8 +288,8 @@ li {
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   margin-bottom: 34px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
